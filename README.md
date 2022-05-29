@@ -5,11 +5,12 @@ Content-based filtering is one of the popular techniques of recommendation or re
 When the similar movies are to be searched based on the contents of the input movie, the web application provides a list of the recommended movies using Machine Learning(ML).
 If the input movie name is misspelled or not present in the database, it gives an error and provides an option to revisit the home page.
 
-#Home page
+# Home page
 Search movies to find similar movie recommendations along with movie name and release date.
 
-#Technologies used
+# Languages used
 HTML
+Python
 
 # Dependencies
 All the required dependencies are listed in the **requirements.txt** file.
