@@ -1,4 +1,4 @@
-# <h1 align="center">Movie Recommendation System</h1>  
+# <h1 align="center">Movie Recommendation System</h1> 
 # About the Project 
 * This is a simple movie recommendation system which is based on Content-Based Recommendation System.
 * Content-based filtering is one of the popular techniques of recommendation or recommender systems. 
@@ -19,25 +19,25 @@ All the required dependencies are listed in the **requirements.txt** file.
 ## Home page
 It is used to input movies to find similar movie recommendations.
 
-![](/images/home.PNG)
+<img src="/images/home.PNG" width=800>
 
 ### Button at top right
 Opens **Connect with me** page.
 
-![](/images/side1.PNG)
+<img src="/images/side1.PNG" width=800>
 
 ## Found Movie Recommendations
 * Opens up the page showing similar movie recommendations along with movie name and release date.
 
-![](/images/positive.PNG)
+<img src="/images/positive.PNG" width=800>
 
 * There is a google form to provide feedback at bottom of the page.
 
-![](/images/form.PNG)
+<img src="/images/form.PNG" width=800>
  
 ## Error Page
 * It shows error if the input movie name is misspelled or not present in the database.
 * It shows names of similar movies related to the input movie.
 * It has a button which gives an option to revisit the home page and re-enter movie name.
 
-![](/images/negative.PNG)
+<img src="/images/negative.PNG" width=800>
