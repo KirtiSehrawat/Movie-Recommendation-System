@@ -19,25 +19,25 @@ All the required dependencies are listed in the **requirements.txt** file.
 ## Home page
 It is used to input movies to find similar movie recommendations.
 
-<img src="/images/home.PNG" width=800>
+<img src="/images/home.PNG" width=500>
 
 ### Button at top right
 Opens **Connect with me** page.
 
-<img src="/images/side1.PNG" width=800>
+<img src="/images/side1.PNG" width=500>
 
 ## Found Movie Recommendations
 * Opens up the page showing similar movie recommendations along with movie name and release date.
 
-<img src="/images/positive.PNG" width=800>
+<img src="/images/positive.PNG" width=500>
 
 * There is a google form to provide feedback at bottom of the page.
 
-<img src="/images/form.PNG" width=800>
+<img src="/images/form.PNG" width=500>
  
 ## Error Page
 * It shows error if the input movie name is misspelled or not present in the database.
 * It shows names of similar movies related to the input movie.
 * It has a button which gives an option to revisit the home page and re-enter movie name.
 
-<img src="/images/negative.PNG" width=800>
+<img src="/images/negative.PNG" width=500>
