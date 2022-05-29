@@ -9,8 +9,8 @@ If the input movie name is misspelled or not present in the database, it gives a
 Search movies to find similar movie recommendations along with movie name and release date.
 
 # Languages used
-+* HTML
-+* Python
+* HTML
+* Python
 
 # Dependencies
 All the required dependencies are listed in the **requirements.txt** file.
