@@ -1,4 +1,4 @@
-#                                                                   Movie Recommendation System
+# <h1 align="center">Movie Recommendation System</h1>                                                           
 This is a simple movie recommendation system which is based on Content-Based Recommendation System.
 Content-based filtering is one of the popular techniques of recommendation or recommender systems. The content or attributes of the things one likes are referred to as "content." Here, the system uses ones features and likes in order to recommend one with things that one might like.
 
