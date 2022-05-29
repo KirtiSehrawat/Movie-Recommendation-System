@@ -21,7 +21,7 @@ It is used to input movies to find similar movie recommendations.
 
 <img src="/images/home.PNG" width=700>
 
-### Button at top right
+## Button at top right
 Opens **Connect with me** page.
 
 <img src="/images/side1.PNG" width=700>
