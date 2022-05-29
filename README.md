@@ -1,12 +1,19 @@
-# <h1 align="center">Movie Recommendation System</h1> 
+# <h1 align="center">Algorithms</h1> 
+# Movie Recommendation System
 # About the Project 
+* **Algorithms** project built during Microsoft Engage 2022.
 * This is a simple movie recommendation system which is based on Content-Based Recommendation System.
 * Content-based filtering is one of the popular techniques of recommendation or recommender systems. 
-* The content or attributes of the things one likes are referred to as "content." Here, the system uses ones features in order to recommend things that one might like.
+* The content or attributes of the things one likes are referred to as "content." Here, the system uses the features in order to recommend things that one might like.
 
 ## Salient Features
 * When the similar movies are to be searched based on the contents of the input movie, this web application provides a list of the recommended movies using **Machine Learning(ML)**.
 * If the input movie name is misspelled or not present in the database, it gives an error and provides an option to revisit the home page.
+
+## Algorithm Used
+* **Cosine Similarity** (the dot product for normalized vectors) is the Machine Learning model used to build the Movie Recommendation System.
+* The recommendation system use the similarity matrix to recommend the next most similar movie to the user.
+* The list of movies is sorted in the descending order, with the most similar movie at the top.
 
 # Languages used
 * HTML
